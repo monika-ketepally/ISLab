@@ -1,4 +1,4 @@
 ## Aim
-A C/JAVA program to implement the DES algorithm logic
+A a C/JAVA program to implement the Blowfish algorithm logic.
 ## Output
-![image](https://user-images.githubusercontent.com/62592828/147047064-e24a6668-c1c1-48fb-a321-7aeb70013de1.png)
+![image](https://user-images.githubusercontent.com/62592828/147047543-7a9f0238-9796-4765-b023-6d4be8fa1879.png)
