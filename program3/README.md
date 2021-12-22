@@ -6,7 +6,7 @@ c.Hill Cipher
 
 ## Output
 ### Ceaser Cipher
-![image](https://user-images.githubusercontent.com/62592828/147046579-e2b0a22d-8819-40ab-aaf3-1fc1a00ebdec.png)
+![image](https://user-images.githubusercontent.com/62592828/147047697-e187a76b-fed0-42bc-8245-6f893cff63c5.png)
 
 ### Substitution Cipher
 ![image](https://user-images.githubusercontent.com/62592828/147046597-fd365a3d-4455-4c92-84ba-60f7a620781a.png)
